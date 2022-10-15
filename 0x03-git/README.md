@@ -1,1 +1,1 @@
-Second directory
+Updated my Second directory
